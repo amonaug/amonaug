@@ -1,12 +1,6 @@
 <p align="left">Hi, My name is Pedro, and i'm always learning about the world of progammation;</p>
 
-###
 
-<div align="left">
-  <img height="200" src="https://i.gifer.com/BPo7.gif" />
-</div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
