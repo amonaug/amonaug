@@ -1,4 +1,7 @@
-<p align="left">Hi, My name is Pedro, and i'm always learning about the world of progammation;</p>
+<h1>Pedro Augusto</h1>
+
+###
+<p align="left">Hi, I'm a computer science student, and I'm passionate about technology and I'm always learning about the world of programming;</p>
 
 ###
 
