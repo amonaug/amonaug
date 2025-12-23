@@ -1,7 +1,9 @@
 <h1>Pedro Augusto</h1>
 
 ###
-<p align="left">Hi, I'm a computer science student, and I'm passionate about technology and I'm always learning about the world of programming;</p>
+<p align="left">Hi! I'm a Computer Science student passionate about technology and problem-solving.
+I’m constantly learning and improving my skills in software development, exploring different areas of programming and building projects to turn ideas into code.
+Here you’ll find my studies, experiments, and projects as I grow as a developer.</p>
 
 ###
 
